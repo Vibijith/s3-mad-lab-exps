@@ -1,3 +1,4 @@
 #s3-mad-lab-exps
-#c
+#c calculator
 #
+/home/student/AndroidStudioProjects/home/student/AndroidStudioProjects
